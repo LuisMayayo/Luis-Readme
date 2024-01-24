@@ -1,7 +1,7 @@
 # ¡Hola! Soy Luis Mayayo 👋
 
 ## Objetivos a conseguir 
-Actualmente aspiro a sacar el gradu superior y poder trabajar y viajar mucho. 
+Actualmente aspiro a sacar el grado superior y poder trabajar y viajar mucho. 
 ## Competencias 
 Mantenimiento de equipos informáticos <br>
 Wordpress avanzado en maquetación <br>
